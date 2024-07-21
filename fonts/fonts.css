@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "GolosText";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./GolosText-Regular.woff2") format("woff2"),
+    url("./GolosText-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "GolosText";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("./GolosText-Medium.woff2") format("woff2"),
+    url("./GolosText-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "GolosText";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("./GolosText-DemiBold.woff2") format("woff2"),
+    url("./GolosText-DemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./Merriweather-Regular.woff2") format("woff2"),
+    url("./Merriweather-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./Merriweather-Bold.woff2") format("woff2"),
+    url("./Merriweather-Bold.woff") format("woff");
+}
